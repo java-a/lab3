@@ -104,13 +104,13 @@ String dateString = JOptionPane.showInputDialog("输入日期");
 最后，在你第一部分完成的代码中插入下列语句输出结果：
 
 ```java
-System.out.printf("巨蟹座");
+System.out.print("巨蟹座");
 ```
 ## Java Style Guide
 
 > BY [超级厉害的何天成学长](https://github.com/htc550605125)
 
-这篇 Guideline 主要参照于 [Google Java Style](https://google.github.io/styleguide/javaguide.html) ，截取了当中的一些内容进行翻译，更多的具体的代码规范请参见原文。良好的代码规范可以使代码更加美观易读，便于debug。团队协作中，统一的代码规范也是非常重要的。
+这篇 Guideline 主要参照于 [Google Java Style](https://google.github.io/styleguide/javaguide.html) ，截取了当中的一些内容进行翻译，更多的具体的代码规范请参见原文。良好的代码规范可以使代码更加美观易读，便于 debug 。团队协作中，统一的代码规范也是非常重要的。
 
 ### 文件编码
 
